@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-11T19:08:58+02:00
+
+====== Home ======
+Created Saturday 11 July 2020
+
+Welcome to ZimWiki
